@@ -24,7 +24,7 @@ StrategyLens turns raw MetaTrader 5 Strategy Tester reports and account history 
 - ⚡ **Instant** — drag a `.htm` or `.xlsx` report in and get a full dashboard in seconds.
 - 📊 **Institutional-grade metrics** — Sharpe, SQN, Profit Factor, Calmar, Stability, Expectancy, R-Expectancy, drawdown in both $ and %, average holding time, and many more.
 - 🧩 **Build portfolios** — combine strategies and see merged equity, true portfolio drawdown, and correlation.
-- 🏦 **Prop-firm ready** — check a strategy against major prop-firm rule sets (FTMO, The5ers, and more) before you risk an evaluation.
+- 🏦 **Prop-firm ready** — check a strategy against 60+ prop-firm rule sets (FTMO, The5ers, FundedNext, and more) before you risk an evaluation.
 - 🎲 **Stress-test** — Monte Carlo, What-If, and Money-Management labs.
 - 📱 **Installable** — works offline as a PWA on desktop and mobile.
 
@@ -94,7 +94,11 @@ By using StrategyLens you agree to the **[End User License Agreement](https://tr
 
 ### Trademark Disclaimers
 
-MetaTrader 5 and MetaTrader are trademarks of MetaQuotes Ltd. StrategyLens is an independent tool and is not affiliated with, endorsed by, or sponsored by MetaQuotes Ltd. All other trademarks are the property of their respective owners.
+MetaTrader 5 and MetaTrader are trademarks of MetaQuotes Ltd. StrategyLens is an independent tool and is not affiliated with, endorsed by, or sponsored by MetaQuotes Ltd.
+
+FTMO, The5ers, FundedNext and all other prop-firm names referenced are trademarks of their respective owners. StrategyLens is not affiliated with, endorsed by, or sponsored by any prop firm; prop-firm rule sets are provided for informational checking only and may not reflect each firm's latest official rules.
+
+All other trademarks are the property of their respective owners.
 
 ### Trading Risk Disclaimer
 
