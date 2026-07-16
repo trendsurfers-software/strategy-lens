@@ -2,6 +2,17 @@
 
 The latest updates to StrategyLens, in plain language. Newest first.
 
+## 0.9.1 · 16 July 2026
+
+### New
+
+- **Drop the same report again, get a copy.** Re-importing a report no longer stops to ask about duplicates — you get a fresh copy named "Your Report (1)", "(2)" and so on, ready to compare side by side.
+- **Two ways to remove, clearly separated.** Right-clicking a Workbench strategy or portfolio now offers **Remove from Workbench** (takes it off the panel, keeps your data) and **Delete Completely** (permanently deletes it and all its data, after asking you to confirm).
+
+### Improved
+
+- **Menus you can read at a glance.** Right-click menus now show an icon next to every option, and destructive actions are marked in red.
+
 ## 0.9.0 · 16 July 2026
 
 ### New
