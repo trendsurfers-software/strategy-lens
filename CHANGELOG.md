@@ -2,6 +2,16 @@
 
 The latest updates to StrategyLens, in plain language. Newest first.
 
+## 0.10.0 · 29 July 2026
+
+### New
+
+- **Ask an AI about your backtests.** StrategyLens can now be driven directly by an AI assistant — Claude, or any other MCP-compatible client. Point it at a folder of MetaTrader 5 reports and ask it to rank them, pool them into a portfolio, or dig into a single strategy's trades, in plain language. Every number is computed on your own machine by the same engine that powers the web app, so the figures match what you see here. Your reports stay on your machine; only the results you ask for reach your AI. The new **AI Ready** page walks you through the one-time setup — it takes a config snippet, a folder, and a restart of your AI client.
+
+### Fixed
+
+- **Share previews show the right address.** When you shared a link to an analysis, the preview card that appears in chat apps and social feeds showed an old web address. It now shows the correct one.
+
 ## 0.9.1 · 16 July 2026
 
 ### New
