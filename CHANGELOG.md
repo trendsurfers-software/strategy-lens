@@ -2,6 +2,17 @@
 
 The latest updates to StrategyLens, in plain language. Newest first.
 
+## 0.11.0 · 31 July 2026
+
+### New
+
+- **AI assistants see everything the Overview shows.** The AI interface can now return every metric from the Overview page — yearly stats, monthly P/L, long vs short split, holding times, profit in pips, per-strategy rankings, and account stats for live statements — using the new `sections` parameter. No extra computation; the engine already had the numbers, they just weren't accessible through the AI interface.
+- **Full report identity in AI results.** AI results now include the EA name, timeframe, broker, leverage, data quality, tick model, and EA inputs for each report — the same details you see in the Overview header.
+
+### Fixed
+
+- **Backtest dates now match what you tested.** If your EA was inactive at the start of the testing window, StrategyLens used to show the date of the first trade as the start, making it look like part of your test period was missing. It now shows the actual period you configured in the Strategy Tester. This fix applies everywhere — Overview, shared portfolios, and the strategy library.
+
 ## 0.10.0 · 29 July 2026
 
 ### New
