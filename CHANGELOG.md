@@ -2,6 +2,12 @@
 
 The latest updates to StrategyLens, in plain language. Newest first.
 
+## 0.12.1 · 5 August 2026
+
+### Fixed
+
+- **Shared strategy previews now show the right numbers.** The preview image that appears when you share a strategy link could show a total return that was far too high, a trade count that was off by one, and a start-and-end date squeezed into a single day. This happened for strategies loaded from an account history statement, where the opening deposit was mistakenly counted as trading profit. Previews now match your Overview exactly — the correct return, the right number of trades, and the full date range your trades cover. Links you have already shared are corrected automatically, so there is no need to share them again.
+
 ## 0.11.0 · 31 July 2026
 
 ### New
