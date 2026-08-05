@@ -2,6 +2,19 @@
 
 The latest updates to StrategyLens, in plain language. Newest first.
 
+## 0.13.0 · 5 August 2026
+
+### New
+
+- **Test an idea without re-running a backtest.** Ask your AI assistant things like "what if I skipped Fridays?" or "what if I only kept long trades?" and StrategyLens recomputes every metric for that filtered set instantly — so you can find where a strategy is bleeding before you change a single EA input.
+- **Try a different position size and see the new drawdown.** Have your assistant replay the same trades at a different risk level and read back the resized balance curve and drawdown — a way to explore sizing without running one backtest per guess.
+- **See how much of a result was luck.** Your assistant can now run a robustness check that reshuffles your trades many times over and shows the range of outcomes, the median result, and the risk of ruin. Every run is repeatable, so the same question gives the same answer.
+- **A clearer risk snapshot.** Analysing a single strategy now also surfaces its longest flat stretch, worst losing streak, biggest single loss, and a plain traffic-light verdict.
+
+### Changed
+
+- **Diversification is now measured day by day.** When you combine strategies into a portfolio, how closely they move together is now lined up on a shared calendar — by day, week, or month — instead of by trade order. It is more accurate, so some of your correlation and diversification-health numbers will shift, usually for the better.
+
 ## 0.12.1 · 5 August 2026
 
 ### Fixed
