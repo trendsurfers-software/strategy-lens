@@ -2,6 +2,12 @@
 
 The latest updates to StrategyLens, in plain language. Newest first.
 
+## 0.14.0 · 6 August 2026
+
+### New
+
+- **Summer sale.** A rotating banner now points to Portfolio Manager's SUMMER2026 sale — 20% off, ends August 10, 2026.
+
 ## 0.13.0 · 5 August 2026
 
 ### New
