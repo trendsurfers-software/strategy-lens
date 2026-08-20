@@ -2,6 +2,14 @@
 
 The latest updates to StrategyLens, in plain language. Newest first.
 
+## 0.14.2 · 20 August 2026
+
+### Fixed
+
+- **Combined-portfolio results now start from the right balance.** For a portfolio where every account shares one balance, Monte Carlo, What-If, and Money Management runs on the combined view were starting from an inflated balance. They now use the correct shared starting balance.
+- **The "New" badge no longer overlaps strategy names.** In tables with recently added strategies, the badge sat on top of the name below it. It now sits next to the name.
+- **Every column option is now reachable in the Columns menu.** On smaller screens, the bottom of a long column list could run off the edge of the screen. The menu now sizes itself to fit and scrolls internally instead.
+
 ## 0.14.0 · 6 August 2026
 
 ### New
