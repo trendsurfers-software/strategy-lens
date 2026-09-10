@@ -2,17 +2,23 @@
 
 The latest updates to StrategyLens, in plain language. Newest first.
 
-## 0.15.0 · 10 September 2026
+## 0.15.1 · 11 September 2026
 
 ### New
 
 - **See the lowest margin level reached during a backtest.** StrategyLens now shows the minimum margin level reported by MetaTrader directly on the Overview. This gives you a quick view of how much margin headroom the strategy kept at its most demanding point.
 - **Review margin headroom across a portfolio.** A portfolio shows the lowest margin level from its strategies when every report provides one. If any report is missing the value, StrategyLens shows that the result is unavailable instead of presenting an incomplete figure.
 - **Ask your AI assistant about margin level.** AI analysis can now read and rank the minimum margin level of individual reports and include the complete portfolio value when combining strategies.
+- **Use StrategyLens without an account.** Your analyses, portfolios, preferences, and saved share links stay in your browser. Your report data stays on your device unless you choose to create a share link.
 
 ### Improved
 
 - **Margin level works across report languages and spreadsheet layouts.** StrategyLens reads the stable report structure, so translated reports and spreadsheets with blank rows retain the same result without losing trades.
+- **Shared links remain yours to manage.** Links you create can still be edited or removed from the browser that created them, without signing in.
+
+## 0.15.0 · Not released
+
+This version was not released. Its planned improvements are included in 0.15.1.
 
 ## 0.14.2 · 20 August 2026
 
