@@ -2,6 +2,14 @@
 
 The latest updates to StrategyLens, in plain language. Newest first.
 
+## 0.15.6 · 12 September 2026
+
+### Improved
+
+- **Explore all 15 AI analysis tools.** The AI Ready guide and StrategyLens pages now explain portfolio metrics, allocation comparisons, weight searches, and performance breakdowns by symbol or trade comment.
+- **Compare performance across market conditions.** The guide explains how to use your price history to investigate rising, falling, and ranging markets at different volatility levels.
+- **Understand the limits before drawing conclusions.** Updated guidance makes clear when comment attribution is an estimate, when price history is missing, and why a historical replay is not a fresh backtest or a forecast.
+
 ## 0.15.5 · 12 September 2026
 
 ### Improved
