@@ -2,7 +2,7 @@
 
 The latest updates to StrategyLens, in plain language. Newest first.
 
-## 0.15.2 · 12 September 2026
+## 0.15.3 · 12 September 2026
 
 ### New
 
@@ -19,13 +19,17 @@ The latest updates to StrategyLens, in plain language. Newest first.
 - **Shared links remain yours to manage.** Links you create can still be edited or removed from the browser that created them, without signing in.
 - **Reopening a backtest keeps its details complete.** Sending the same backtest from Portfolio Manager again can add its EA version without creating a duplicate or clearing a version already known.
 
+## 0.15.2 · Not released
+
+This version was not released. Its planned improvements are included in 0.15.3.
+
 ## 0.15.1 · Not released
 
-This version was not released. Its planned improvements are included in 0.15.2.
+This version was not released. Its planned improvements are included in 0.15.3.
 
 ## 0.15.0 · Not released
 
-This version was not released. Its planned improvements are included in 0.15.2.
+This version was not released. Its planned improvements are included in 0.15.3.
 
 ## 0.14.2 · 20 August 2026
 
