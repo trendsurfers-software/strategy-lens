@@ -2,7 +2,7 @@
 
 The latest updates to StrategyLens, in plain language. Newest first.
 
-## 0.15.1 · 11 September 2026
+## 0.15.1 · 12 September 2026
 
 ### New
 
@@ -10,11 +10,14 @@ The latest updates to StrategyLens, in plain language. Newest first.
 - **Review margin headroom across a portfolio.** A portfolio shows the lowest margin level from its strategies when every report provides one. If any report is missing the value, StrategyLens shows that the result is unavailable instead of presenting an incomplete figure.
 - **Ask your AI assistant about margin level.** AI analysis can now read and rank the minimum margin level of individual reports and include the complete portfolio value when combining strategies.
 - **Use StrategyLens without an account.** Your analyses, portfolios, preferences, and saved share links stay in your browser. Your report data stays on your device unless you choose to create a share link.
+- **See the balance and equity drawdowns reported by MetaTrader.** Review the original backtest figures alongside your StrategyLens analysis.
+- **Keep the EA version with your backtest.** When Portfolio Manager supplies the version used for a backtest, StrategyLens now shows it alongside the EA name. Reports that do not provide a version remain unknown.
 
 ### Improved
 
 - **Margin level works across report languages and spreadsheet layouts.** StrategyLens reads the stable report structure, so translated reports and spreadsheets with blank rows retain the same result without losing trades.
 - **Shared links remain yours to manage.** Links you create can still be edited or removed from the browser that created them, without signing in.
+- **Reopening a backtest keeps its details complete.** Sending the same backtest from Portfolio Manager again can add its EA version without creating a duplicate or clearing a version already known.
 
 ## 0.15.0 · Not released
 
