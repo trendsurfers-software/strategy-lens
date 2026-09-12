@@ -2,12 +2,16 @@
 
 The latest updates to StrategyLens, in plain language. Newest first.
 
-## 0.15.4 · 12 September 2026
+## 0.15.5 · 12 September 2026
 
 ### Improved
 
-- **Download one set file without extra steps.** When a single backtest has a set file, the Download page now shows it directly with its return, drawdown, Ret/DD, profit factor, win rate, and tick quality. Portfolios keep the full strategy list and ZIP download.
+- **Download one set file without extra steps.** When a single backtest has a set file, the Download page now shows it directly with its return, drawdown, Ret/DD, profit factor, win rate, and tick quality. A concise **Download .set file** button stays clear even when the backtest name is long. Portfolios keep the full strategy list and ZIP download.
 - **AI Ready now fits smaller screens.** The AI Ready section on the home page wraps correctly on phones and keeps its configuration inside the page.
+
+## 0.15.4 · Not released
+
+This version was not released. Its improvements are included in 0.15.5.
 
 ## 0.15.3 · 12 September 2026
 
